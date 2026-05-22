@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://syfa.cc.cd',
+  url: 'https://syfao.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For custom domain, baseUrl should be '/'
-  baseUrl: '/',
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/blog/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
