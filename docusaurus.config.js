@@ -20,14 +20,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docomola.github.io',
+  url: 'https://syfao.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/blog/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'docomola', // Usually your GitHub org/user name.
+  organizationName: 'syfao', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   trailingSlash: false,
 
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/docomola/blog/tree/main/',
+            'https://github.com/syfao/blog/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/docomola/blog/tree/main/',
+            'https://github.com/syfao/blog/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -98,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/docomola/blog',
+            href: 'https://github.com/syfao/blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/docomola/blog',
+                href: 'https://github.com/syfao/blog',
               },
             ],
           },
@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/docomola/blog',
+                href: 'https://github.com/syfao/blog',
               },
             ],
           },
